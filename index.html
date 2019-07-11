@@ -35,6 +35,35 @@
     <!-- Custom styles for this template -->
     <link href="css/resume.min.css" rel="stylesheet">
 
+
+
+<!-- ここからCookie同意-->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#4b81e8"
+    }
+  },
+  "position": "top",
+  "static": true,
+  "content": {
+    "message": "このウェブサイトでは、アクセス分析をするためにCookieを使用しています。サイトを利用することで、Cookieの使用に同意しているものとします。",
+    "dismiss": "了解",
+    "link": "詳しく...",
+    "href": "http://www.ta-yanai.com/privacy"
+  }
+})});
+</script>
+
+<!-- ここまで、Cookie同意-->
   </head>
 <style>
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Source+Sans+Pro');
@@ -159,7 +188,7 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">(全高協)情報技術者</h3>
+              <h3 class="mb-0">(全高協)</h3>情報技術検定
               <div class="subheading mb-3">第２種</div>
               <div>基本情報技術者とは、「情報処理の促進に関する法律第29条第1項」に基づいて経済産業大臣が行う国家試験「情報処理技術者試験」の区分の一つ</div>
             </div>
