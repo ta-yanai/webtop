@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>taketoyni2310</string>
+			<key>PayloadDescription</key>
+			<string>0001RoomAPへの接続設定</string>
+			<key>PayloadDisplayName</key>
+			<string>0001RoomAP Setting v1.0</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.4AC0630E-12DF-4087-8308-92178A6A52E9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>4AC0630E-12DF-4087-8308-92178A6A52E9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>0001RoomAP-5G</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>0001RoomAPへの接続設定</string>
+	<key>PayloadDisplayName</key>
+	<string>0001RoomAP Setting v1.0</string>
+	<key>PayloadIdentifier</key>
+	<string>co.mc9 718693D1-2BDE-4ABA-A53C-5FE671FF571E</string>
+	<key>PayloadOrganization</key>
+	<string>ta-yanai.com</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7241F229-7284-4CF7-8B84-77B169581413</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
