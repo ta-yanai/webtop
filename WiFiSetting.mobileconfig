@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>8b93f917db5d3</string>
+			<key>PayloadDescription</key>
+			<string>Wi-Fi設定を行い、ネットワークに参加するためのプロファイルです。</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi Setting v1.0</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.18CDFC5C-8AF5-4710-AE49-8651CE3A48E6</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>18CDFC5C-8AF5-4710-AE49-8651CE3A48E6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>aterm-f87b7e-g</string>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>8b93f917db5d3</string>
+			<key>PayloadDescription</key>
+			<string>Wi-Fi設定を行い、ネットワークに参加するためのプロファイルです。</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi Setting v1.0</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.18CDFC5C-8AF5-4710-AE49-8651CE3A48E6</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>18CDFC5C-8AF5-4710-AE49-8651CE3A48E6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>aterm-f87b7e-a</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Wi-Fi設定を行い、ネットワークに参加するためのプロファイルです。</string>
+	<key>PayloadDisplayName</key>
+	<string>Wi-Fi Setting v1.0</string>
+	<key>PayloadIdentifier</key>
+	<string>co.mc9 3DD92F37-ECC8-4354-B40F-B8C0A45815C0</string>
+	<key>PayloadOrganization</key>
+	<string>ta-yanai.com</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>04EAECB7-032A-4647-8F4F-27D6213D54BA</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
