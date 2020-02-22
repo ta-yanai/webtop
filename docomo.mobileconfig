@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>B35D084737</string>
+			<key>PayloadDescription</key>
+			<string>0000docomoへの接続設定</string>
+			<key>PayloadDisplayName</key>
+			<string>docomo Wi-Fi Setting v1.0</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.280800CF-A411-4ECC-9F8A-6EE384A48970</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>280800CF-A411-4ECC-9F8A-6EE384A48970</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>0000docomo</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>0000docomoへの接続設定</string>
+	<key>PayloadDisplayName</key>
+	<string>docomo Wi-Fi Setting v1.0</string>
+	<key>PayloadIdentifier</key>
+	<string>co.mc9 AB4051E8-0A3D-4100-9C66-899FF0A18B19</string>
+	<key>PayloadOrganization</key>
+	<string>docomo.ne.jp</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C752C9EE-FA70-48FD-9B55-F6D63D7F2425</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
