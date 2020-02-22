@@ -34,6 +34,8 @@
 			<key>SSID_STR</key>
 			<string>aterm-f87b7e-g</string>
 		</dict>
+	</array>
+	<array>
 		<dict>
 			<key>AutoJoin</key>
 			<true/>
